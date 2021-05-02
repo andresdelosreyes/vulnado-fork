@@ -1,3 +1,8 @@
+<a href="https://scan.coverity.com/projects/andresdelosreyes-vulnado-fork">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/23066/badge.svg"/>
+</a>
+
 # Vulnado - Intentionally Vulnerable Java Application
 
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
